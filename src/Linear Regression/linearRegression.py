@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author
-This is a temporary script file.
+@author: melih safa celik
 """
 import pandas as pd
 import matplotlib.pyplot as plt
